@@ -1,2 +1,3 @@
 rootProject.name = 'kafka-pub-sub'
+include 'kafka-basics'
 
